@@ -1,5 +1,5 @@
 
-I'm a senior at Binghamton University majoring in Statistics with a minor in Digital and Data Studies. I have a strong passion for programming, data analysis, and statistical modeling, with experience in applying these skills to solve problems.
+I'm a senior at Binghamton University majoring in Statistics with a minor in Digital and Data Studies. I have a passion for programming, data analysis, and statistical modeling, with experience in applying these skills to solve problems.
 
 
 <!---
